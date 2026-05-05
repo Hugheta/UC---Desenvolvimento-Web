@@ -1,0 +1,19 @@
+body{
+    background-color:crimson;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;     
+    height: 800px;           
+    margin: 0;
+}
+
+h1{
+    color: azure;
+    font-size: 80px;
+}
+
+p{
+    color: white;
+    font-size: 40px;
+}

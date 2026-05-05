@@ -1,0 +1,23 @@
+*{
+    background-color: burlywood;
+}
+
+h1{
+    font-size: 70px;
+    font-style: italic;
+    font-family: 'Trebuchet MS';
+    color: #de767c;
+    text-align: center;
+    margin-top: 60px;
+}
+
+img{
+    height: 200;
+    width: 220;
+}
+
+#imagem{
+    display: flex;
+    justify-content: center;
+}
+

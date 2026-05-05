@@ -1,0 +1,22 @@
+body {
+  background-image: url('shot21a.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed; 
+}
+
+img {
+  position: relative;
+  top: 400px; 
+  left: 520px; 
+}
+ul {
+    color:azure ;
+    font-size: 35px;
+}
+h1 {
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
