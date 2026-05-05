@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1a1a2e;
+    color: #e0e0e0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #00c853ff;
+    color: #0a1f0a;
+    padding: 20px 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+section {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 40px;
+    border-top: 2px solid #00c853;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+}
+
+section h2 {
+    color: #00c853;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+section div {
+    flex: 1;
+}
+
+section p {
+    text-align: justify;
+    font-size: 16px;
+    max-width: 700px;
+}
+
+#sobre {
+    margin-top: 100px;
+}
+
+ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+ul li {
+    margin-bottom: 12px;
+    font-size: 16px;
+    border-bottom: 1px solid #ffffff20;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #69f0ae;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 250px;
+}
+
+video {
+    width: 250px;
+}
+
+.contato {
+    display: block;
+}
+
+#contato img {
+    display: block;
+    margin: 20px auto 0 auto;
+}
